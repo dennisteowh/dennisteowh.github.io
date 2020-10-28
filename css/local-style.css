@@ -1,0 +1,72 @@
+
+ body { visibility: hidden; }
+
+.slider {
+  /* default is width 400 and margin 10 */
+	width: 400;
+	margin: 10px;
+}
+
+divl {
+  text-align: left;
+  line-height: 90%;
+  font-size: 12px;
+}
+
+
+button{
+
+  font-size: 16px;
+
+}
+
+#i0{
+  border: none;
+
+}
+
+#conditionOne {
+    border: none;
+
+}
+
+#conditionTwo {
+    border: none;
+
+}
+
+#conditionThree {
+    border: none;
+
+}
+
+#conditionFour {
+    border: none;
+
+}
+
+#subj_info {
+  border: none;
+
+}
+
+.checkboxgroup {
+	display: inline-block;
+	text-align: center;
+	padding: 30px;
+  }
+.checkboxgroup label {
+	display: block;
+  }
+
+#check1 {
+
+    padding: 0px;
+  }
+  
+#check7 {
+  
+    padding: 0px; 
+  }
+  
+  
